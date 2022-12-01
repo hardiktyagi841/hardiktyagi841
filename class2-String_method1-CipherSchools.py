@@ -3,7 +3,7 @@
 name = "Hardik tyagi"
 
 # 1. len() function-   Return the no. of characters in string, it also count spaces as length
-print(len("Nishant"))
+print(len("Hardik"))
 print(len(name))
 
 # 2. lower() method-  Return every character of string into lowercase
